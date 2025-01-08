@@ -1,9 +1,8 @@
 ### Hello there
-I’m currently learning computer science and math.
-I mainly code in C++ and Java but am always interested in learning something which helps me solve a problem.
+I am currently learning about AI after having learned about CS and Math.
 
 ## 💻
-Java, C/C++, Python
+Python (DS/ ML), C++
 <!--
 **BWotka/BWotka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
